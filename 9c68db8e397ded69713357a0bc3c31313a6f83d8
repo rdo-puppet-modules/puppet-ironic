@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Fri, 18 Dec 2015 21:32:43 +0100
+Reviewed-on: https://review.gerrithub.io/255803
+Project: rdo-puppet-modules/puppet-ironic
+Branch: refs/heads/recomb-original-master-2c8397256728024860fa9f9a2018b4b5f0d21f15
